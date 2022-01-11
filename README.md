@@ -23,4 +23,6 @@ Week 4：認識 cold start、sparsity 等實務上挑戰，啟動 iCook 專案
 Week 5 & 6：iCook 專案實作，打造食譜推薦系統，直接與 iCook CTO Richard 分享成果並取得反饋（註：須符合一定資格者）
 
 ## 進度
-### W1 : 實作「rule-based」的推薦系統
+### W1 : [Rule-based recommendation system](https://github.com/AmoreHH/data-course-sample/tree/main/W1)
+### W2 : [Content-based recommendation system](https://github.com/AmoreHH/data-course-sample/tree/main/W2)
+### W3 : [Collaborative Filtering](https://github.com/AmoreHH/data-course-sample/tree/main/W3)
